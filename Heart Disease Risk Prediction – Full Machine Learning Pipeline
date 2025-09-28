@@ -1,0 +1,28 @@
+
+Key Features
+Data Preprocessing: Cleaning, handling missing values, encoding categorical features, and scaling numerical data.
+
+Exploratory Data Analysis: Histograms, boxplots, and correlation heatmaps for insight into patterns and relationships.
+
+Dimensionality Reduction: Principal Component Analysis (PCA) to reduce feature space while retaining variance.
+
+Feature Selection: Recursive Feature Elimination (RFE), Chi-Square tests, and model-based importance ranking.
+
+Supervised Learning: Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine models with accuracy, precision, recall, F1, ROC, and AUC evaluation.
+
+Unsupervised Learning: K-Means and Hierarchical Clustering with elbow and dendrogram analysis to uncover hidden structure.
+
+Model Optimization: GridSearchCV and RandomizedSearchCV for hyperparameter tuning and performance improvement.
+
+Deployment: Optional Streamlit web interface for real-time predictions and visualization, with Ngrok for public sharing.
+
+
+Tech Stack
+
+Language: Python
+
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, (optional) TensorFlow/Keras
+
+Deployment: Streamlit, Ngrok
+
+Model Persistence: joblib or pickle for saving trained pipelines.
