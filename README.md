@@ -2,18 +2,6 @@
 This repository contains a complete end-to-end machine learning project for analyzing and predicting heart disease using the UCI Heart Disease dataset. It demonstrates the full data science workflow from raw data to a deployable interactive full project.
 Repository Structure
 
-Heart_Disease_Project/
-│── data/heart_disease.csv
-│── notebooks/
-│   ├── 01_data_preprocessing.ipynb
-│   ├── 02_pca_analysis.ipynb
-│   ├── 03_feature_selection.ipynb
-│   ├── 04_supervised_learning.ipynb
-│   ├── 05_unsupervised_learning.ipynb
-│   ├── 06_hyperparameter_tuning.ipynb
-│── README.md
-│── .gitignore
-
 How to Run
 
 1. Clone the repository and install dependencies:
